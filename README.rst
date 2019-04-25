@@ -1,4 +1,4 @@
-**Install**
+**Install (tested on Python 3.6.x)**
 
     .. code-block:: shell
 
