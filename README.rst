@@ -4,6 +4,17 @@
 
         pip install -U https://github.com/tinylambda/hueshell/zipball/master#egg=hueshell
 
+
+**Configuration(~/.hue.ini)**
+
+    .. code-block:: ini
+
+        [hue]
+        url = http://127.0.0.1/
+        username = username
+        password = password
+        default_engine = hive
+
 **Usage**
 
     .. code-block:: shell
