@@ -1,4 +1,4 @@
-**Install (tested on Python 3.6.x)**
+**Install (tested on Python 3.6.x and HUE 4.1)**
 
     .. code-block:: shell
 
