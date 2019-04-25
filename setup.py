@@ -2,6 +2,6 @@ import setuptools
 
 
 setuptools.setup(
+    packages=setuptools.find_packages(),
     install_requires=["requests"],
-    version="1.0.0",
 )
